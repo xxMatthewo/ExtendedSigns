@@ -1,0 +1,10 @@
+name: ExtendedSigns
+main: me.xxmatthewo.extendedsigns.ExtendedSigns
+version: 1
+commands:
+  es:
+    usage: /<command>
+    description: All ExtendedSigns commands!
+  al:
+    usage: /<command>
+    description: Add Line command
